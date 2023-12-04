@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="divPalavras">
+
+    </div>
+    <p id="palavras"></p>
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+
+    <script>
+            var rota = 'http://localhost:5000/listarPalavras';
+            var acao = $.ajax({
+                url: rota,
+                dataType: 'json', // os dados são recebidos no formato json,
+            });
+        
+            acao.done(function (retorno) {
+        try {
+            if (retorno.resultado == "ok") {
+                console.log(retorno.detalhes[0])
+                for (var reg of retorno.detalhes) {
+                    console.log(reg)
+                    for (var palavra of reg.detalhes) 
+                    var paragrafo = $("#palavras");
+                    var s = palavra;
+                    paragrafo.html(`${s}`);
+                    $('#divPalavras').append(paragrafo);
+                }
+            } else {
+                alert("Erro informado pelo backend: " + retorno.detalhes);
+            }
+        } catch (error) { // se algo der errado...
+            alert("Erro ao tentar fazer o ajax: " + error +
+                "\nResposta da ação: " + retorno.detalhes);
+        }
+    });
+
+    </script>
+</body>
+</html>
