@@ -1,0 +1,56 @@
+jul 11, 2023 4:38:42 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: Creating main frame...
+jul 11, 2023 4:38:42 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 1. loading look'n'feels
+jul 11, 2023 4:38:43 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 2. loading options
+jul 11, 2023 4:38:43 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 3. creating menus...
+jul 11, 2023 4:38:43 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 4. creating views...
+jul 11, 2023 4:38:43 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 5. calculating size and packing...
+jul 11, 2023 4:38:43 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 6. changing language ...
+jul 11, 2023 4:38:43 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 7. first attempt to restore bounds
+jul 11, 2023 4:38:43 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 8. finalizing...
+jul 11, 2023 4:38:44 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: Starting RSS check...
+jul 11, 2023 4:38:44 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: Deleting old auto-save files
+jul 11, 2023 4:38:45 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: RSS check finished
+jul 11, 2023 4:38:45 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: [GanttOptions] save(): finished!!
+jul 11, 2023 4:39:55 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: [GanttOptions] save(): finished!!
+jul 12, 2023 2:12:04 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: Creating main frame...
+jul 12, 2023 2:12:04 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 1. loading look'n'feels
+jul 12, 2023 2:12:04 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 2. loading options
+jul 12, 2023 2:12:04 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 3. creating menus...
+jul 12, 2023 2:12:04 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 4. creating views...
+jul 12, 2023 2:12:04 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 5. calculating size and packing...
+jul 12, 2023 2:12:04 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 6. changing language ...
+jul 12, 2023 2:12:04 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 7. first attempt to restore bounds
+jul 12, 2023 2:12:04 PM biz.ganttproject.LoggerImpl debug
+DETALHADO: 8. finalizing...
+jul 12, 2023 2:12:05 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: Starting RSS check...
+jul 12, 2023 2:12:05 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: Deleting old auto-save files
+jul 12, 2023 2:12:06 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: RSS check finished
+jul 12, 2023 2:12:06 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: [GanttOptions] save(): finished!!
+jul 12, 2023 2:15:54 PM net.sourceforge.ganttproject.GPLogger log
+INFORMAÇÕES: [GanttOptions] save(): finished!!
